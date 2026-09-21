@@ -1,0 +1,10 @@
+
+# Project
+src/Utils/*                       
+src/!Utils/CustomWait.cs         
+src/!Utils/JsonReader.cs           
+src/!Utils/ConsoleLogger.cs
+src/Base/     
+src/TestData/TestDataProvider.cs
+
+
