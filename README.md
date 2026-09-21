@@ -1,4 +1,4 @@
-# 🛒 Project 8 – Invetory-App Desktop UI Testing Automation Framework
+# 🖥️ Project 8 – Invetory-App Desktop UI Testing Automation Framework
 
 ![C#](https://img.shields.io/badge/C%23-.NET%206.0-blue?logo=csharp)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium)
@@ -30,6 +30,14 @@ The framework is designed to automate key workflows of the Inventory DesktopAppl
 - Authentication
 - Customer Management
 - Product Management
+
+
+## 🎥 Demo
+
+![Inventory Desktop UI Automation Demo](docs/video/inventory-demo.gif)
+
+[▶️ Watch the full demo](docs/video/inventory-demo.mp4)
+
 
 <a id="tech-stack"></a> 
 ## 🛠️ Tech Stack 
