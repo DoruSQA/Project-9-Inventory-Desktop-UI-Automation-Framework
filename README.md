@@ -43,7 +43,7 @@ The framework is designed to automate key workflows of the Inventory DesktopAppl
 
 ![Inventory Desktop UI Automation Demo](docs/video/inventory-demo.gif)
 
-[▶️ Watch the full demo](https://dorusqa.github.io/assets/video/appium-demo.mp4)
+[▶️ Watch the full demo](https://dorusqa.github.io/assets/appium-demo.mp4)
 
 
 <a id="tech-stack"></a> 
