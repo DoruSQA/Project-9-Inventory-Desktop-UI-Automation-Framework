@@ -1,4 +1,4 @@
-# 🖥️ Project 8 – Invetory-App Desktop UI Testing Automation Framework
+# 🖥️ Project 9 – Invetory-App Desktop UI Testing Automation Framework
 
 ![C#](https://img.shields.io/badge/C%23-.NET%206.0-blue?logo=csharp)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium)
