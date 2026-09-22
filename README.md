@@ -18,7 +18,6 @@
 - [Framework Features](#framework-features)
 - [Framework Architecture](#framework-architecture)
 - [Test Execution](#test-execution)
-  - [Suite Selection](#suite-selection)
 - [Reports](#reports-and-logging)
 - [Conclusion](#conclusion)
 
